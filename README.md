@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi there! I'm Le Quy Phuong 
+- 🔭 I’m currently working on IoT system, Biomedical Signal Processing, Machine Learning
+- 🌱 I’m currently learning Smart Wearable Systems for Health and Sports
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lequyphuong1903@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuong-le-quy-734b46335/)
 
 <!--
 **lequyphuong1903/lequyphuong1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
