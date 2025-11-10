@@ -1,5 +1,5 @@
-## 👋 Hi there! I'm Le Quy Phuong 
-- 🔭 I’m currently working on IoT system, Biomedical Signal Processing, Machine Learning
+## 👋 Hi there! I'm Quy Phuong Le
+- 🔭 I’m currently working on Biomedical Signal Processing and Machine Learning
 - 🌱 I’m currently learning Smart Wearable and Sensors Applications for Healthcare
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lequyphuong1903@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuong-le-quy-734b46335/)
