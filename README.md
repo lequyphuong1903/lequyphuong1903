@@ -19,7 +19,7 @@ I am a graduate student and AI researcher currently pursuing my M.S. in Industry
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lequyphuong1903@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuong-le-quy-734b46335/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuonglq/)
 
 <!--
 **lequyphuong1903/lequyphuong1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
