@@ -1,9 +1,11 @@
 ## 👋 Hi there! I'm Quy Phuong Le
-I am a graduate student and AI researcher currently pursuing my M.S. in Industry 4.0 Convergence Bionics Engineering at Pukyong National University, South Korea. My work lies at the intersection of machine learning, edge computing, and biomedical signal processing to enhance human health and performance. 
+I am a Ph.D. student in Data Science at Rowan University, working at the intersection of robotics, machine learning, and autonomous systems. My research and work focus on developing AI-driven methods for agricultural monitoring, soil regeneration metrics, and intelligent drone-based sensing systems.
 
 ## 🔭 Research interests
-- I’m currently working on Biomedical Signal Processing and Machine Learning
-- I’m currently learning Smart Wearable and Sensors Applications for Healthcare
+- AI-Enabled Autonomous Systems & Drones
+- Robotics & Multi-Embodiment Systems
+- Precision Agriculture & Soil Regeneration
+- Data Science & Agricultural Data Analytics
 
 ## Technical Skills 
 <p> 
